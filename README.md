@@ -35,6 +35,15 @@ Saat pertama kali dinyalakan (atau jika konfigurasi WiFi belum tersedia), perang
 
 ---
 
+## 🔁 Reset Konfigurasi
+
+Untuk mereset konfigurasi WiFi dan HomeKit:
+
+- **Tekan dan tahan tombol flash (GPIO 0)** selama **5 detik** saat perangkat menyala.
+- Setelah itu, perangkat akan masuk kembali ke mode Access Point.
+
+---
+
 ## 🍎 HomeKit Pairing
 
 Setelah perangkat terhubung ke WiFi:
